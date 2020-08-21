@@ -30,3 +30,20 @@
 *.exe
 *.out
 *.app
+
+# Others
+*.idea/
+*cmake-build-debug/
+*cmake-build*/
+*/venv/
+
+**/nohup.out
+*.log
+*/.DS_Store
+
+###########
+*bin/
+*build/
+*output/
+*log/
+*outer**/
