@@ -36,6 +36,7 @@
 *cmake-build-debug/
 *cmake-build*/
 */venv/
+*target/
 
 **/nohup.out
 *.log
