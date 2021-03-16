@@ -47,4 +47,7 @@
 *build/
 *output/
 *log/
+*log**/
 *outer**/
+
+*.pth
